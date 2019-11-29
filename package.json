@@ -4,8 +4,11 @@
   "homepage": "https://mk-hash.github.io/nxt2learn-react-app",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.7.0",
+    "@material-ui/icons": "^4.5.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {

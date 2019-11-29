@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nxt2learn-react-app/precache-manifest.805593f54fe3f7530997ae352b15fe24.js"
+  "/nxt2learn-react-app/precache-manifest.bebd9e1d1fda23952c6816d21c72ae96.js"
 );
 
 self.addEventListener('message', (event) => {

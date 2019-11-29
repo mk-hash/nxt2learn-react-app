@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/nxt2learn-react-app/static/css/main.b100e6da.chunk.css",
-    "main.js": "/nxt2learn-react-app/static/js/main.8f9ab579.chunk.js",
-    "main.js.map": "/nxt2learn-react-app/static/js/main.8f9ab579.chunk.js.map",
+    "main.css": "/nxt2learn-react-app/static/css/main.a4edd3a5.chunk.css",
+    "main.js": "/nxt2learn-react-app/static/js/main.12bd3256.chunk.js",
+    "main.js.map": "/nxt2learn-react-app/static/js/main.12bd3256.chunk.js.map",
     "runtime-main.js": "/nxt2learn-react-app/static/js/runtime-main.5e126264.js",
     "runtime-main.js.map": "/nxt2learn-react-app/static/js/runtime-main.5e126264.js.map",
-    "static/js/2.88466500.chunk.js": "/nxt2learn-react-app/static/js/2.88466500.chunk.js",
-    "static/js/2.88466500.chunk.js.map": "/nxt2learn-react-app/static/js/2.88466500.chunk.js.map",
+    "static/js/2.21a84e61.chunk.js": "/nxt2learn-react-app/static/js/2.21a84e61.chunk.js",
+    "static/js/2.21a84e61.chunk.js.map": "/nxt2learn-react-app/static/js/2.21a84e61.chunk.js.map",
     "index.html": "/nxt2learn-react-app/index.html",
-    "precache-manifest.805593f54fe3f7530997ae352b15fe24.js": "/nxt2learn-react-app/precache-manifest.805593f54fe3f7530997ae352b15fe24.js",
+    "precache-manifest.bebd9e1d1fda23952c6816d21c72ae96.js": "/nxt2learn-react-app/precache-manifest.bebd9e1d1fda23952c6816d21c72ae96.js",
     "service-worker.js": "/nxt2learn-react-app/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/nxt2learn-react-app/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/nxt2learn-react-app/static/media/logo.25bf045c.svg"
+    "static/css/main.a4edd3a5.chunk.css.map": "/nxt2learn-react-app/static/css/main.a4edd3a5.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.5e126264.js",
-    "static/js/2.88466500.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.8f9ab579.chunk.js"
+    "static/js/2.21a84e61.chunk.js",
+    "static/css/main.a4edd3a5.chunk.css",
+    "static/js/main.12bd3256.chunk.js"
   ]
 }

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Basics",
+        "parent_id": null
+      },
+      {
+        "id": 20,
+        "title": "Advanced",
+        "parent_id": null
+      },
+      {
+        "id": 40,
+        "title": "Hooks",
+        "parent_id": null
+      }
+    ],
+    "topics": [
+      {
+        "id": 2,
+        "title": "JSX",
+        "parent_id": 1
+      },
+      {
+        "id": 3,
+        "title": "Components",
+        "parent_id": 1
+      },
+      {
+        "id": 4,
+        "title": "State",
+        "parent_id": 1
+      },
+      {
+        "id": 5,
+        "title": "Events",
+        "parent_id": 1
+      },
+
+      {
+        "id": 22,
+        "title": "Fragments",
+        "parent_id": 20
+      },
+      {
+        "id": 23,
+        "title": "Higher-Order Components",
+        "parent_id": 20
+      },
+      {
+        "id": 24,
+        "title": "Uncontrolled Components",
+        "parent_id": 20
+      },
+      {
+        "id": 25,
+        "title": "Code-Splitting",
+        "parent_id": 20
+      },
+      {
+        "id": 41,
+        "title": "Hooks Overview",
+        "parent_id": 40
+      },
+      {
+        "id": 42,
+        "title": "State Hook",
+        "parent_id": 40
+      },
+      {
+        "id": 43,
+        "title": "Effect Hook",
+        "parent_id": 40
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Angular",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Basics",
+        "parent_id": null
+      }
+    ],
+    "topics": [
+      {
+        "id": 2,
+        "title": "Components",
+        "parent_id": 1
+      },
+      {
+        "id": 3,
+        "title": "Lifecycle Hooks",
+        "parent_id": 1
+      },
+      {
+        "id": 4,
+        "title": "Forms",
+        "parent_id": 1
+      },
+      {
+        "id": 5,
+        "title": "Routing",
+        "parent_id": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ML",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Categories",
+        "parent_id": null
+      },
+      {
+        "id": 20,
+        "title": "Tasks",
+        "parent_id": null
+      },
+      {
+        "id": 30,
+        "title": "Libraries",
+        "parent_id": null
+      }
+    ],
+    "topics": [
+      {
+        "id": 2,
+        "title": "Supervised",
+        "parent_id": 1
+      },
+      {
+        "id": 3,
+        "title": "Unsupervised",
+        "parent_id": 1
+      },
+      {
+        "id": 4,
+        "title": "Reinforcement Learning",
+        "parent_id": 1
+      },
+
+      {
+        "id": 21,
+        "title": "Regression",
+        "parent_id": 20
+      },
+      {
+        "id": 22,
+        "title": "Classification",
+        "parent_id": 20
+      },
+      {
+        "id": 23,
+        "title": "Clustering",
+        "parent_id": 20
+      },
+      {
+        "id": 24,
+        "title": "Dimensionality Reduction",
+        "parent_id": 20
+      },
+
+      {
+        "id": 31,
+        "title": "Numpy",
+        "parent_id": 30
+      },
+      {
+        "id": 32,
+        "title": "Pandas",
+        "parent_id": 30
+      },
+      {
+        "id": 33,
+        "title": "Scikit-Learn",
+        "parent_id": 30
+      },
+      {
+        "id": 34,
+        "title": "Tensorflow",
+        "parent_id": 30
+      },
+      {
+        "id": 35,
+        "title": "Keras",
+        "parent_id": 30
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "NLP",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Tasks",
+        "parent_id": null
+      }
+    ],
+    "topics": [
+      {
+        "id": 2,
+        "title": "Sentiment Analysis",
+        "parent_id": 1
+      },
+      {
+        "id": 3,
+        "title": "Language Modelling",
+        "parent_id": 1
+      },
+      {
+        "id": 4,
+        "title": "Question Answering",
+        "parent_id": 1
+      },
+      {
+        "id": 5,
+        "title": "Machine Translation",
+        "parent_id": 1
+      }
+    ]
+  }
+]
